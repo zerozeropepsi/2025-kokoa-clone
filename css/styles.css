@@ -16,6 +16,7 @@
 @import "components/red-dot.css";
 @import "components/icon-row.css";
 @import "components/alt-screen-header.css";
+@import "components/no-mobile.css";
 /* screens */
 @import "screens/login.css";
 @import "screens/friends.css";
